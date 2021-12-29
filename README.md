@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hyoin　Github👋&fontSize=120)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hyoin　Github👋&fontSize=90)
 <!--### HYOIN AN 👋-->
 
 ![html5](https://user-images.githubusercontent.com/63985698/147532696-aed11698-9790-436d-9aeb-1065ee00c62c.png)
