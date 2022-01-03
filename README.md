@@ -1,4 +1,4 @@
-
+# 개발을 어려워 하는 모든사람들이 쉽게 사용할 수 있는 세상을 바래요
 # Tech Stack 👋
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
