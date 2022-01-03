@@ -1,5 +1,9 @@
-# 개발을 어려워 하는 모든사람들이 쉽게 사용할 수 있는 세상을 바래요
-# Tech Stack 👋
+## 나에게 github란? :adult: 
+😎 코드를 관리하며 업로드 한 그 순간의 history를 남기기 위한 곳<br><br>
+🥇 팀원들과의 활발한 협업을 위해 프로젝트 형상관리를 위한 곳<br><br>
+:smile_cat: 얕은 지식도 하나의 소중한 경험이라 생각하며 저장하기 위한 곳<br><br>
+
+## Tech Stack 👋
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
