@@ -1,3 +1,7 @@
+## Portfolio
+
+Notion : https://sumptuous-bush-b53.notion.site/AN-HYOIN-5a837694bbee4ba1ae5f0b1da75dfe37
+
 ## 나에게 github란? :adult: 
 ```
 😎 코드를 관리하며 업로드 한 그 순간의 history를 남기기 위한 곳
