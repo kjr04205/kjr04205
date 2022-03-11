@@ -1,6 +1,3 @@
-## Portfolio
-
-### Notion : https://sumptuous-bush-b53.notion.site/AN-HYOIN-5a837694bbee4ba1ae5f0b1da75dfe37
 
 ## 나에게 github란? :adult: 
 ```
