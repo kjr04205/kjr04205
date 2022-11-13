@@ -25,9 +25,3 @@ DB를 직접적으로 셋팅을 해본적은 없으나, CRUD 기능을 응용하
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjr04205&layout=compact&theme=buefy&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-## 프로젝트 바로가기 ⚡
-### JAVA, Spring Framework Project<br>
-- Management : https://github.com/kjr04205/Management <br>
-### JAVA, JSP Project<br>
-- 명절주문관리시스템 : https://github.com/kjr04205/Holiday-order-management <br>
-- 커뮤니티 : https://github.com/kjr04205/Board-System <br>
